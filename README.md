@@ -14,7 +14,6 @@
 <body> 
   <h1>JavaScript Homework Assignment</h1>
   <h2 style="text-align:center;">Name: Shaikh Nehal | Date: 03-08-2025 | </h2>
-    <script>
 <hr>
     // 1. Full Name
     let firstName = "Ali";
@@ -82,7 +81,7 @@
     // Bonus:
     let msg = "Total: " + (5 + 5) * 2;
     alert(msg); // Output: "Total: 20"
-  </script>
+  
   <hr>
 
 </body>
