@@ -11,8 +11,26 @@
 <head>
   <title>JavaScript Practice</title>
 </head>
-<body>
-
+<body> <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center; /* Center align all text */
+      background-color: #f9f9f9;
+      padding: 40px;
+    }
+    h1 {
+      color: #333;
+    }
+    h2 {
+      margin-top: 30px;
+      color: #555;
+    }
+    p {
+      margin: 10px auto;
+      width: 80%;
+      line-height: 1.6;
+    }
+  </style>
   <h2>JavaScript Practice Output</h2>
   <p>Open the console to see results.</p>
 
