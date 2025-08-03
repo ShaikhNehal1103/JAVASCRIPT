@@ -9,11 +9,12 @@
     <!DOCTYPE html>
 <html>
 <head>
-  <title>JavaScript Practice</title>
+  <h1>JavaScript Practice</h1>
 </head>
 <body> 
-  <h2>JavaScript Practice Output</h2>
-  <p>Open the console to see results.</p>
+  <h1>JavaScript Homework Assignment</h1>
+  <h2 style="text-align:center;">Name: Shaikh Nehal | Date: 03-08-2025 | </h2>
+
     <script>
         <center>
 <hr>
